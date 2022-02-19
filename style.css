@@ -42,6 +42,7 @@ a:hover {
 
 .container {
   width: 700px;   /* This sets the width */
+  margin-top: 30px;
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
